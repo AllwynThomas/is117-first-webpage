@@ -1,12 +1,25 @@
 body {
-    background-color: black;
-    color: aqua;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 p {
     font-size: larger;
 }
 
-a {
+.lightMode {
+    background-color: white;
+    color: black;
+}
+
+.darkMode {
+    background-color: black;
+    color: white;
+}
+
+#njit {
     color: red
+}
+
+#github{
+    color: rgb(0, 85, 255)
 }
