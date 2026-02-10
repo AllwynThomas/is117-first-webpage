@@ -1,9 +1,20 @@
 body {
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 15px;
 }
 
 p {
     font-size: larger;
+}
+
+.header {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.centerDiv {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .lightMode {
